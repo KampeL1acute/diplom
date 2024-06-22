@@ -1,0 +1,10 @@
+.app {
+    display: flex;
+    position: relative;
+    text-align: center;
+    align-items: center;
+}
+
+.body {
+    margin-bottom: 15px;
+}

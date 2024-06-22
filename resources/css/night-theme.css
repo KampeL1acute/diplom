@@ -1,0 +1,129 @@
+body.night-theme {
+    background-color: #f1f1f1;
+    color: rgb(18, 18, 18);
+}
+
+body.night-theme .header {
+    background-color: #f1f1f1;
+}
+
+.header {
+    transition: background-color .4s, color .4s;
+}
+
+body.night-theme .margin-footer-text {
+    color: #121212;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+body.night-theme .margin-footer-text:hover {
+    color: #C08000;
+}
+
+body.night-theme .hoverLink {
+    color: #121212;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+body.night-theme .hoverLink:hover {
+    color: #C08000;
+}
+
+.email-item {
+    transition: background-color .4s, color .4s;
+}
+
+body.night-theme .email-item {
+    color: #121212;
+}
+
+.margin-header-text {
+    transition: background-color .4s, color .4s;
+}
+
+body.night-theme .margin-header-text {
+    color: #121212;
+}
+
+.dropbtn {
+    transition: background-color .4s, color .4s;
+}
+
+body.night-theme .dropbtn {
+    color: #121212;
+}
+
+.search input {
+    transition: background-color .4s, color .4s;
+}
+
+body.night-theme .search input {
+    background-color: #f5f5f5;
+    color: #121212;
+}
+
+.description {
+    transition: background-color .4s, color .4s;
+}
+
+body.night-theme .description {
+    color: #383838;
+}
+
+.book-title {
+    transition: background-color .4s, color .4s;
+}
+
+body.night-theme .book-title {
+    color: #121212;
+}
+
+.igor {
+    transition: background-color .4s, color .4s;
+}
+
+body.night-theme .igor {
+    color: #121212;
+}
+
+body.night-theme .TitleBook {
+    color: #121212;
+}
+
+.AutorBook {
+    transition: background-color .4s, color .4s;
+}
+
+body.night-theme .AutorBook {
+    color: #383838;
+}
+
+.MainBookPage {
+    transition: background-color .4s, color .4s;
+}
+
+body.night-theme .MainBookPage {
+    color: #121212;
+}
+
+body.night-theme .closebutton {
+    color: #121212;
+}
+
+.Text {
+    transition: background-color .4s, color .4s;
+}
+
+body.night-theme .Text {
+    color: #121212;
+}
+
+.closebutton1 {
+    transition: background-color .4s, color .4s;
+}
+
+body.night-theme .closebutton1 {
+    color: #121212;
+}
